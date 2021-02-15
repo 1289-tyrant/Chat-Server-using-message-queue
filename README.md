@@ -1,4 +1,4 @@
-###Chat-Server-using-message-queue-in-c
+### Chat-Server-using-message-queue-in-c ###
 
 This repository contains the code for a basic implementation of char server using system V message queues in c.
 
